@@ -40,4 +40,4 @@ YYYY-MM-DD_yourname_department.md
 
 ---
 
-That's it — submit a pull request and your quote joins the collection.
+That's it — submit a pull request and your quote joins the collection. 
